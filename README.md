@@ -10,7 +10,7 @@
 - Диаграмма состояний показывает какие статусы может принимать заказ
 - Диаграмма деятельности отражает процесс обработки заказа системой
 - Диаграмма классов определяет структуру системы 
-![image](https://github.com/6mvge/TZ_3/assets/152098166/603aec23-9d61-4454-b1ed-064790971528)
+![image](https://github.com/6mvge/TZ_3/assets/152098166/7daad9ed-bcb1-42b0-adc9-a2ea85dfb9ce)
 ![image](https://github.com/6mvge/TZ_3/assets/152098166/77c80388-c98b-4dfd-97fb-e49abd704440)
 ![image](https://github.com/6mvge/TZ_3/assets/152098166/1efc1c3a-06ea-4c9b-811c-8b408badc104)
 ![image](https://github.com/6mvge/TZ_3/assets/152098166/8f7524cc-8e0b-4137-91c6-8cf5bd40790a)
